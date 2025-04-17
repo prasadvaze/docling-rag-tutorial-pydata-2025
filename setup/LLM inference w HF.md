@@ -11,7 +11,7 @@
 6. Now you will see an api key displayed on your screen with a prefix `hf_` copy and save it somewhere safe (some password manager/ vault). **Important:** Once you close the box, you will not see the key again.
 7. So make sure that you copy and save it.
    <img width="702" alt="Image" src="https://github.com/user-attachments/assets/e80d70b4-0dfe-4256-87d2-b5d116e122e7" />
-8. 
+   
 
    
 
